@@ -1,4 +1,4 @@
-#Olá!#
+#Olá!
 
 Meu nome é **Walter Aurélio Ribeiro dos Santos**, sou aluno do 2º ano A do *Colégio Estadual Cívico Militar Professor Darcy José Costa*.
 
